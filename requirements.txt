@@ -1,0 +1,7 @@
+# Zależności funkcji Vercel (bez pytest i uvicorn — serwer dostarcza Vercel).
+fastapi==0.162.4
+pydantic==2.14.3
+pydantic-settings==2.16.2
+SQLAlchemy==2.1.8
+httpx==0.28.1
+pydantic-ai-slim[openai]==2.67.0
